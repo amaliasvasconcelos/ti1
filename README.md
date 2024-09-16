@@ -64,7 +64,8 @@ No desenvolvimento deste trabalho, o grupo deverá utilizar este repositório co
 * **Arquivo CITATION.cff**: descritor do projeto, utilizado para geração do certificado ao final da disciplina;
 * **Pasta docs**: documentação completa do projeto;
 * **Pasta presentation**: apresentação do projeto;
-* **Pasta src**: todos os arquivos resultantes da programação do software.
+* **Pasta src**: todos os arquivos resultantes da programação do software;
+* **Pasta templates**: templates de arquivos úteis ao longo desta disciplina. Essa pasta deve ser removida antes da entrega da versão final do trabalho.
 
 Toda a documentação do projeto é realizado por meio do Markdown, uma linguagem de formatação adotada pelo GitHub e por diversas outras plataformas. Aprenda Markdown e use-o para documentar o projeto.
 
