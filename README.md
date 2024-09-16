@@ -56,7 +56,7 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 ## Instruções 
 
-> **IMPORTANTE: APAGUE ESSA SEÇÃO DE INSTRUÇÕES ANTES DE ENTREGAR SEU TRABALHO**
+> **IMPORTANTE: APAGUE ESTA SEÇÃO DE INSTRUÇÕES ANTES DE ENTREGAR SEU TRABALHO**
 
 No desenvolvimento deste trabalho, o grupo deverá utilizar este repositório como local para entrega de todos os artefatos a serem produzidos. Em especial, o grupo deverá providenciar a alteração dos seguintes arquivos:
 
