@@ -14,7 +14,7 @@ Esta seção apresenta as funcionalidades da solução.
 
 Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Contatos](#estrut_dados_contatos)
 * **Instruções de acesso:**
   * Abra o site e efetue o login;
   * Acesse o menu principal e escolha a opção "Cadastros";
@@ -33,7 +33,7 @@ Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
 Descrição das estruturas de dados utilizadas na solução com exemplos no formato JSON.Info.
 
-##### Estrutura de dados - Contatos   ⚠️ EXEMPLO ⚠️
+##### Estrutura de dados - Contatos   ⚠️ EXEMPLO ⚠️ {#estrut_dados_contatos}
 
 Contatos da aplicação
 
