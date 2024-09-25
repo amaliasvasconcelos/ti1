@@ -42,8 +42,7 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 <li><a href="docs/06-Arquitetura-solucao.md"> Arquitetura da solução</a></li>
 <li><a href="docs/07-Plano-testes-software.md"> Plano de testes de software</a></li>
 <li><a href="docs/08-Registro-testes-software.md"> Registro de testes de software</a></li>
-<li><a href="docs/09-Conclusao.md"> Conclusão</a></li>
-<li><a href="docs/10-Referencias.md"> Referências</a></li>
+<li><a href="docs/09-Referencias.md"> Referências</a></li>
 </ol>
 
 # Código
