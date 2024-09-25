@@ -54,14 +54,14 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 * <a href="presentation/README.md">Apresentação do projeto</a>
 
-## Instruções 
+## Dicas 
 
-> **IMPORTANTE: APAGUE ESTA SEÇÃO DE INSTRUÇÕES ANTES DE ENTREGAR SEU TRABALHO**
+> **IMPORTANTE: APAGUE ESTA SEÇÃO DE DICAS ANTES DE ENTREGAR SEU TRABALHO**
 
 No desenvolvimento deste trabalho, o grupo deverá utilizar este repositório como local para entrega de todos os artefatos a serem produzidos. Em especial, o grupo deverá providenciar a alteração dos seguintes arquivos:
 
 * **Capa do projeto** (Este arquivo aqui): informação básica sobre o projeto, alunos do grupo e professores responsáveis;
-* **Arquivo CITATION.cff**: descritor do projeto, utilizado para geração do certificado ao final da disciplina;
+* **Arquivo CITATION.cff**: utilizado para referenciar o projeto;
 * **Pasta docs**: documentação completa do projeto;
 * **Pasta presentation**: apresentação do projeto;
 * **Pasta src**: todos os arquivos resultantes da programação do software;
