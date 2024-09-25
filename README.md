@@ -35,14 +35,15 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 <ol>
 <li><a href="docs/01-Contexto.md"> Documentação de contexto</a></li>
-<li><a href="docs/02-Especificacao.md"> Especificação do projeto</a></li>
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/04-Projeto-interface.md"> Projeto de interface</a></li>
-<li><a href="docs/05-Template-padrao.md"> Template padrão da aplicação</a></li>
-<li><a href="docs/06-Arquitetura-solucao.md"> Arquitetura da solução</a></li>
-<li><a href="docs/07-Plano-testes-software.md"> Plano de testes de software</a></li>
-<li><a href="docs/08-Registro-testes-software.md"> Registro de testes de software</a></li>
-<li><a href="docs/09-Referencias.md"> Referências</a></li>
+<li><a href="docs/02-Product-discovery.md"> Product discovery</a></li>
+<li><a href="docs/03-Product-design.md"> Product design</a></li>
+<li><a href="docs/04-Metodologia.md"> Metodologia</a></li>
+<li><a href="docs/05-Projeto-interface.md"> Projeto de interface</a></li>
+<li><a href="docs/06-Template-padrao.md"> Template padrão da aplicação</a></li>
+<li><a href="docs/07-Arquitetura-solucao.md"> Arquitetura da solução</a></li>
+<li><a href="docs/08-Plano-testes-software.md"> Plano de testes de software</a></li>
+<li><a href="docs/09-Registro-testes-software.md"> Registro de testes de software</a></li>
+<li><a href="docs/10-Referencias.md"> Referências</a></li>
 </ol>
 
 # Código
