@@ -33,7 +33,8 @@ Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
 Descrição das estruturas de dados utilizadas na solução com exemplos no formato JSON.Info.
 
-##### Estrutura de dados - Contatos   ⚠️ EXEMPLO ⚠️ {#estrut_dados_contatos}
+##### Estrutura de dados - Contatos   ⚠️ EXEMPLO ⚠️ 
+{#estrut_dados_contatos}
 
 Contatos da aplicação
 
